@@ -1,6 +1,6 @@
 # Python: Stop using Source and use Subshells
 
-### Python: Stop using Source and use Subshells insted
+### Python: Stop using Source and use Subshells instead
 
 Subshells have the advantage that exit can be used to close the shell, without loosing the terminal window.
 
