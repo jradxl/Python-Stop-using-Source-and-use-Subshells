@@ -1,4 +1,4 @@
-## Python: Stop using Source and use Subshells
+# Python: Stop using Source and use Subshells
 
 Python: Stop using Source and use Sub-Shells  
 There are a few historic references to using Subshells instead of source venv/bin/activate  
@@ -8,10 +8,10 @@ https://virtualenv.pypa.io/en/stable/
 
 This repo has my script, inve, which takes place of source venv/bin/activate in a python project, assuming the venv of .venu has been created  
 
-# Astral's UV
+### Astral's UV
 - this creates .venv without links for pip and pip3. Becuase they are expecting use of uv for package management
 
-# Python's venv
+### Python's venv
 - this creates venv, but with links for pip and pip3
 
 //End
